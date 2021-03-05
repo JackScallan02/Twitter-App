@@ -28,3 +28,14 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/HHYkoJ0V3Q.gif' title='Showing timeline, refreshing, and infinite scroll' width='' alt='Video Walkthrough' />
 
 
+
+<table>
+  <tr>
+    <td>Required features</td>
+     <td>Bonus Features</td>
+  </tr>
+  <tr>
+    <td><img src="http://g.recordit.co/5ghvVnoBA4.gif" width=270 height=480></td>
+    <td><img src="http://g.recordit.co/HHYkoJ0V3Q.gif" width=270 height=480></td>
+  </tr>
+ </table>
