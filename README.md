@@ -23,12 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/5ghvVnoBA4.gif' title='Showing app icon and launch screen, logging in and out, and staying logged in across restarts' width='' alt='Video Walkthrough' />
-
-<img src='http://g.recordit.co/HHYkoJ0V3Q.gif' title='Showing timeline, refreshing, and infinite scroll' width='' alt='Video Walkthrough' />
-
-
-
 <table>
   <tr>
     <td>Required features</td>
